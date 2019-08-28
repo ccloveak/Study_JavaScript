@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> new document </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+  <script type="text/javascript">
+
+    function openWindow(){
+
+    var open=confirm("Do you wanna open imooc in new window?");
+
+    // 新窗口打开时弹出确认框，是否打开
+
+    if(open==true)
+
+    {
+
+    var url=prompt("comfirm the website", "http://www.imooc.com/");
+
+    url_1 = "http://www.imooc.com/"
+
+    // 通过输入对话框，确定打开的网址，默认为 http：//www.imooc.com/
+
+    if(url!=null)
+
+    {
+
+    window.open(url_1, '_blank', 'width=400, height=500, meanubar=no, toolbar=no');
+
+    }
+
+//打开的窗口要求，宽400像素，高500像素，无菜单栏、无工具栏。
+
+else
+
+{
+
+alert("Fail");
+
+}
+
+}
+
+}
+
+
+  </script>
+ </head>
+ <body>
+	  <input type="button" value="新窗口打开网站" onclick="openWindow()" />
+ </body>
+</html>
