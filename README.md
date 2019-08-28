@@ -9,3 +9,7 @@ Record JavaScript Samples
 ## [sample003](https://github.com/ccloveak/Study_JavaScript/tree/master/sample003)
 * 通过id获取h2标签元素,并赋给变量mychar
 * 使用innerHTML属性，将获取的h2标签内容修改为"Hello world!"
+## [sample004](https://github.com/ccloveak/Study_JavaScript/tree/master/sample004)
+* 修改h2标签的样式，将颜色设为红色
+* 修改h2标签的样式，将背景颜色设为灰色(#CCC)
+* 修改h2标签的样式，将宽设为300px
