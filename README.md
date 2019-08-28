@@ -25,3 +25,8 @@ Record JavaScript Samples
 * 定义"隐藏内容"的函数
 * 定义"显示内容"的函数
 * 定义"取消设置"的函数
+## [sample008](https://github.com/ccloveak/Study_JavaScript/tree/master/sample008)
+* 把注释语句注释。
+* 在页面中显示 “系好安全带,准备启航--目标JS”文字；
+* 编写代码，在页面中弹出提示框“准备好了，起航吧！”
+* 使用引入JS外部文件的方式实现
