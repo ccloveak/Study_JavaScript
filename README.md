@@ -19,3 +19,9 @@ Record JavaScript Samples
 ## [sample006](https://github.com/ccloveak/Study_JavaScript/tree/master/sample006)
 * 给id="p1"元素通过className添加"类名为one"的样式。当点击"添加样式"按钮，第一段文字添加样式。
 * 给id="p2"元素通过className修改为"类名为two"的样式。当点击"更改外观"按钮，第二段文字更改样式。
+## [sample007](https://github.com/ccloveak/Study_JavaScript/tree/master/sample007)
+* 定义"改变颜色"的函数
+* 定义"改变宽高"的函数
+* 定义"隐藏内容"的函数
+* 定义"显示内容"的函数
+* 定义"取消设置"的函数
