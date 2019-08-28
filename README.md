@@ -16,3 +16,6 @@ Record JavaScript Samples
 ## [sample005](https://github.com/ccloveak/Study_JavaScript/tree/master/sample005)
 * 通过style.display实现隐藏
 * 通过style.display实现显示
+## [sample006](https://github.com/ccloveak/Study_JavaScript/tree/master/sample006)
+* 给id="p1"元素通过className添加"类名为one"的样式。当点击"添加样式"按钮，第一段文字添加样式。
+* 给id="p2"元素通过className修改为"类名为two"的样式。当点击"更改外观"按钮，第二段文字更改样式。
