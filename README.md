@@ -13,3 +13,6 @@ Record JavaScript Samples
 * 修改h2标签的样式，将颜色设为红色
 * 修改h2标签的样式，将背景颜色设为灰色(#CCC)
 * 修改h2标签的样式，将宽设为300px
+## [sample005](https://github.com/ccloveak/Study_JavaScript/tree/master/sample005)
+* 通过style.display实现隐藏
+* 通过style.display实现显示
