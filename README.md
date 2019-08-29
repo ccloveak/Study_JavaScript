@@ -34,3 +34,5 @@ Record JavaScript Samples
 小明有10元钱，买了一个本，花了5元，小红说:"你剩下的钱加上我的6元钱，就可以买个铅笔盒了。
 * 定义变量num1,并计算小明剩下多少钱
 * 定义变量num2,并计算小红花多少钱买铅笔盒
+## [sample010](https://github.com/ccloveak/Study_JavaScript/tree/master/sample010)  
+* 逻辑计算
