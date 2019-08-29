@@ -75,3 +75,5 @@ Record JavaScript Samples
 * 光标失焦事件
 ## [sample026](https://github.com/ccloveak/Study_JavaScript/tree/master/sample026)  
 * 当选中个人简介文本框中文字时，触发onselect事件，并弹出对话框
+## [sample027](https://github.com/ccloveak/Study_JavaScript/tree/master/sample027)  
+* 改变文本框内容时，调用message()函数，弹出对话框
