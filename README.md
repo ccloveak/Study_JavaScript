@@ -47,3 +47,5 @@ Record JavaScript Samples
 * 删除数组中非*的项
 * 按照字符数排序
 * 将数组内容输出
+## [sample015](https://github.com/ccloveak/Study_JavaScript/tree/master/sample015)  
+* 周计划:周一、二学习理念知识，周三、四到企业实践，周五总结经验，周六、日休息和娱乐。
