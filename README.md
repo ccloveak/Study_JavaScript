@@ -71,3 +71,5 @@ Record JavaScript Samples
 * 当鼠标移开"点击我"的按钮时，调用message()函数，弹出消息对话框
 ## [sample024](https://github.com/ccloveak/Study_JavaScript/tree/master/sample024)  
 * 光标聚焦事件
+## [sample025](https://github.com/ccloveak/Study_JavaScript/tree/master/sample025)  
+* 光标失焦事件
