@@ -36,3 +36,5 @@ Record JavaScript Samples
 * 定义变量num2,并计算小红花多少钱买铅笔盒
 ## [sample010](https://github.com/ccloveak/Study_JavaScript/tree/master/sample010)  
 * 逻辑计算
+## [sample011](https://github.com/ccloveak/Study_JavaScript/tree/master/sample011)  
+* 数组赋值
