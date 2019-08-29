@@ -63,3 +63,5 @@ Record JavaScript Samples
 * 定义函数实现两个数的积，函数名为app2
 * 计算5、6/2、3两组两个数的积,分别保存在req1和req2变量中
 * 计算req1和req2和的值，保存在变量sumq中
+## [sample021](https://github.com/ccloveak/Study_JavaScript/tree/master/sample021)  
+* 传入两个整数后返回较大的整数
