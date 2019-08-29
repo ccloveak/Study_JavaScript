@@ -38,3 +38,5 @@ Record JavaScript Samples
 * 逻辑计算
 ## [sample011](https://github.com/ccloveak/Study_JavaScript/tree/master/sample011)  
 * 数组赋值
+## [sample012](https://github.com/ccloveak/Study_JavaScript/tree/master/sample012)  
+* 使用length属性显示数组长度
