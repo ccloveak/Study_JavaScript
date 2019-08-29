@@ -42,3 +42,8 @@ Record JavaScript Samples
 * 使用length属性显示数组长度
 ## [sample013](https://github.com/ccloveak/Study_JavaScript/tree/master/sample013)  
 * 创建二维数组(一维长度3，二维长度6)，值为一维数组和二维数组索引值的积，如myarr[2][5]=2*5。
+## [sample014](https://github.com/ccloveak/Study_JavaScript/tree/master/sample014)  
+* 定义一个数组，存储要展示的图形
+* 删除数组中非*的项
+* 按照字符数排序
+* 将数组内容输出
