@@ -59,3 +59,7 @@ Record JavaScript Samples
 ## [sample019](https://github.com/ccloveak/Study_JavaScript/tree/master/sample019)  
 * 定义函数实现三个数的和，函数名为add3
 * 计算5、8、3/7、1、4两组三个数的和
+## [sample020](https://github.com/ccloveak/Study_JavaScript/tree/master/sample020)  
+* 定义函数实现两个数的积，函数名为app2
+* 计算5、6/2、3两组两个数的积,分别保存在req1和req2变量中
+* 计算req1和req2和的值，保存在变量sumq中
