@@ -79,3 +79,5 @@ Record JavaScript Samples
 * 改变文本框内容时，调用message()函数，弹出对话框
 ## [sample028](https://github.com/ccloveak/Study_JavaScript/tree/master/sample028)  
 * 加载事件
+## [sample029](https://github.com/ccloveak/Study_JavaScript/tree/master/sample029)  
+* 关闭页面弹窗
