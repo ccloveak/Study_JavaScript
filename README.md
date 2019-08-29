@@ -30,3 +30,7 @@ Record JavaScript Samples
 * 在页面中显示 “系好安全带,准备启航--目标JS”文字；
 * 编写代码，在页面中弹出提示框“准备好了，起航吧！”
 * 使用引入JS外部文件的方式实现
+## [sample009](https://github.com/ccloveak/Study_JavaScript/tree/master/sample009)  
+小明有10元钱，买了一个本，花了5元，小红说:"你剩下的钱加上我的6元钱，就可以买个铅笔盒了。
+* 定义变量num1,并计算小明剩下多少钱
+* 定义变量num2,并计算小红花多少钱买铅笔盒
