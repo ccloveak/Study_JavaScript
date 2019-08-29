@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>光标聚焦事件</title>
+    <script type="text/javascript">
+        function message() {
+            var new2 = document.getElementById("new1");
+            new2.style.color = "pink";
+        }
+
+        function message1() {
+            var new3 = document.getElementById("new1");
+            new3.removeAttribute("style");
+        }
+    </script>
+</head>
+
+<body>
+    请选择您的职业：<br>
+    <form>
+        <select name="career" onfocus="message()" onblur="message1()" id="new1">
+            <option>学生</option>
+            <option>教师</option>
+            <option>工程师</option>
+            <option>演员</option>
+            <option>会计</option>
+        </select>
+    </form>
+
+</body>
+
+</html>

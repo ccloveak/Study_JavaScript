@@ -69,3 +69,5 @@ Record JavaScript Samples
 * 当鼠标经过"确定"按钮后，调用message()函数，弹出消息对话框
 ## [sample023](https://github.com/ccloveak/Study_JavaScript/tree/master/sample023)  
 * 当鼠标移开"点击我"的按钮时，调用message()函数，弹出消息对话框
+## [sample024](https://github.com/ccloveak/Study_JavaScript/tree/master/sample024)  
+* 光标聚焦事件
