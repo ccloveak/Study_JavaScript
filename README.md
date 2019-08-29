@@ -56,3 +56,6 @@ Record JavaScript Samples
 ## [sample018](https://github.com/ccloveak/Study_JavaScript/tree/master/sample018)  
 * 学生数据:姓名、性别、年龄和年级
 * 挑出其中所有是大一的女生的的名字
+## [sample019](https://github.com/ccloveak/Study_JavaScript/tree/master/sample019)  
+* 定义函数实现三个数的和，函数名为add3
+* 计算5、8、3/7、1、4两组三个数的和
