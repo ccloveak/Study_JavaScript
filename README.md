@@ -51,3 +51,5 @@ Record JavaScript Samples
 * 周计划:周一、二学习理念知识，周三、四到企业实践，周五总结经验，周六、日休息和娱乐。
 ## [sample016](https://github.com/ccloveak/Study_JavaScript/tree/master/sample016)  
 * 考试成绩输出，如果成绩及格继续输出下个成绩，如果成绩不及格，退出并且后面成绩不输出
+## [sample017](https://github.com/ccloveak/Study_JavaScript/tree/master/sample017)  
+* 考试成绩输出，如果成绩及格继续输出下个成绩，如果成绩不及格，则不输出该成绩
