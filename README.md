@@ -65,3 +65,5 @@ Record JavaScript Samples
 * 计算req1和req2和的值，保存在变量sumq中
 ## [sample021](https://github.com/ccloveak/Study_JavaScript/tree/master/sample021)  
 * 传入两个整数后返回较大的整数
+## [sample022](https://github.com/ccloveak/Study_JavaScript/tree/master/sample022)  
+* 当鼠标经过"确定"按钮后，调用message()函数，弹出消息对话框
