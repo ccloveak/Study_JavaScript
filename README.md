@@ -53,3 +53,6 @@ Record JavaScript Samples
 * 考试成绩输出，如果成绩及格继续输出下个成绩，如果成绩不及格，退出并且后面成绩不输出
 ## [sample017](https://github.com/ccloveak/Study_JavaScript/tree/master/sample017)  
 * 考试成绩输出，如果成绩及格继续输出下个成绩，如果成绩不及格，则不输出该成绩
+## [sample018](https://github.com/ccloveak/Study_JavaScript/tree/master/sample018)  
+* 学生数据:姓名、性别、年龄和年级
+* 挑出其中所有是大一的女生的的名字
