@@ -83,3 +83,5 @@ Record JavaScript Samples
 * 关闭页面弹窗
 ## [sample030](https://github.com/ccloveak/Study_JavaScript/tree/master/sample030)  
 * 使用JS完成一个简单的计算器功能。实现2个输入框中输入整数后，点击第三个输入框能给出2个整数的加减乘除。
+## [sample031](https://github.com/ccloveak/Study_JavaScript/tree/master/sample031)  
+* 计算数组myarray的长度,并保存在变量mynum中
