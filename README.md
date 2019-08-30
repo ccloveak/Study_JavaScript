@@ -87,3 +87,5 @@ Record JavaScript Samples
 * 计算数组myarray的长度,并保存在变量mynum中
 ## [sample032](https://github.com/ccloveak/Study_JavaScript/tree/master/sample032)  
 * 使用getFullYear(）获得年份，并输出当前年份
+## [sample033](https://github.com/ccloveak/Study_JavaScript/tree/master/sample033)  
+* 使用getDay(）获得当前星期，并输出
