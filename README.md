@@ -111,3 +111,5 @@ Record JavaScript Samples
 * 使用ceil（）方法，计算3.3、-0.1、-9.9、8.9值
 ## [sample042](https://github.com/ccloveak/Study_JavaScript/tree/master/sample042)  
 * 使用floor（）方法，计算3.3、-0.1、-9.9、8.9值
+## [sample043](https://github.com/ccloveak/Study_JavaScript/tree/master/sample043)  
+* 使用round()方法，计算3.3、-0.1、-9.9、8.9值
