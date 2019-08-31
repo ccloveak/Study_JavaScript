@@ -97,3 +97,7 @@ Record JavaScript Samples
 * 使用charAt()方法，返回最后一个字符
 ## [sample037](https://github.com/ccloveak/Study_JavaScript/tree/master/sample037)  
 * 使用indexOf()方法，检索第二个字符ｏ出现的位置
+## [sample038](https://github.com/ccloveak/Study_JavaScript/tree/master/sample038)  
+* 以字符"-"分隔字符串对象mystr
+* 将字符串对象mystr每个字符分割
+* 将字符串对象mystr分割成字符，分割3次
