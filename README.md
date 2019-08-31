@@ -91,3 +91,5 @@ Record JavaScript Samples
 * 使用getDay(）获得当前星期，并输出
 ## [sample034](https://github.com/ccloveak/Study_JavaScript/tree/master/sample034)  
 * 使用getTime()和setTime()方法，将时间推后2小时
+## [sample035](https://github.com/ccloveak/Study_JavaScript/tree/master/sample035)  
+* 字符串常用方法
