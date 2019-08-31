@@ -93,3 +93,5 @@ Record JavaScript Samples
 * 使用getTime()和setTime()方法，将时间推后2小时
 ## [sample035](https://github.com/ccloveak/Study_JavaScript/tree/master/sample035)  
 * 字符串常用方法
+## [sample036](https://github.com/ccloveak/Study_JavaScript/tree/master/sample036)  
+* 使用charAt()方法，返回最后一个字符
