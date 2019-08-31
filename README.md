@@ -121,3 +121,5 @@ Record JavaScript Samples
 * 使用join()方法,用分隔符"-",将数组myarr3中元素连接，并输出
 ## [sample047](https://github.com/ccloveak/Study_JavaScript/tree/master/sample047)  
 * 使用reverse()方法,将数组myarr顺序颠倒，并输出
+## [sample048](https://github.com/ccloveak/Study_JavaScript/tree/master/sample048)  
+* 选定数组元素"爱","你"，并输出
