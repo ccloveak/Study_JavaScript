@@ -117,3 +117,5 @@ Record JavaScript Samples
 * 使用random ()方法和round()，显示不大于10的整数
 ## [sample045](https://github.com/ccloveak/Study_JavaScript/tree/master/sample045)  
 * 使用concat()方法连接myarr1和myarr2两个数组并输出
+## [sample046](https://github.com/ccloveak/Study_JavaScript/tree/master/sample046)  
+* 使用join()方法,用分隔符"-",将数组myarr3中元素连接，并输出
