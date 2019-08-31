@@ -104,3 +104,6 @@ Record JavaScript Samples
 ## [sample039](https://github.com/ccloveak/Study_JavaScript/tree/master/sample039)  
 * substring() 从字符对象mystr中提取World!子字符串
 * substring() 从字符对象mystr中提取Hello子字符串
+## [sample040](https://github.com/ccloveak/Study_JavaScript/tree/master/sample040)  
+* substr() 从字符对象mystr中提取World!子字符串
+* substr() 从字符对象mystr中提取Hello子字符串
