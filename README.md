@@ -123,3 +123,6 @@ Record JavaScript Samples
 * 使用reverse()方法,将数组myarr顺序颠倒，并输出
 ## [sample048](https://github.com/ccloveak/Study_JavaScript/tree/master/sample048)  
 * 选定数组元素"爱","你"，并输出
+## [sample049](https://github.com/ccloveak/Study_JavaScript/tree/master/sample049)  
+* 完成降序排列函数
+* 使用sort()方法，进行数组降序列排列，并输出
