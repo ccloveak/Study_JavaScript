@@ -101,3 +101,6 @@ Record JavaScript Samples
 * 以字符"-"分隔字符串对象mystr
 * 将字符串对象mystr每个字符分割
 * 将字符串对象mystr分割成字符，分割3次
+## [sample039](https://github.com/ccloveak/Study_JavaScript/tree/master/sample039)  
+* 从字符对象mystr中提取World!子字符串
+* 从字符对象mystr中提取Hello子字符串
