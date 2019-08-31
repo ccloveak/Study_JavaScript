@@ -113,3 +113,5 @@ Record JavaScript Samples
 * 使用floor（）方法，计算3.3、-0.1、-9.9、8.9值
 ## [sample043](https://github.com/ccloveak/Study_JavaScript/tree/master/sample043)  
 * 使用round()方法，计算3.3、-0.1、-9.9、8.9值
+## [sample044](https://github.com/ccloveak/Study_JavaScript/tree/master/sample044)  
+* 使用random ()方法和round()，显示不大于10的整数
