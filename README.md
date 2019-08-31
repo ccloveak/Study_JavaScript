@@ -126,3 +126,8 @@ Record JavaScript Samples
 ## [sample049](https://github.com/ccloveak/Study_JavaScript/tree/master/sample049)  
 * 完成降序排列函数
 * 使用sort()方法，进行数组降序列排列，并输出
+## [sample050](https://github.com/ccloveak/Study_JavaScript/tree/master/sample050)  
+* 显示打印的日期。 格式为类似“XXXX年XX月XX日 星期X” 的当前的时间
+    * 使用Date()日期对象，注意星期返回值为0-6，所以要转成文字"星期X"
+* 计算出该班级的平均分（保留整数）
+    * parseInt() 字符串类型转成整型
