@@ -107,3 +107,5 @@ Record JavaScript Samples
 ## [sample040](https://github.com/ccloveak/Study_JavaScript/tree/master/sample040)  
 * substr() 从字符对象mystr中提取World!子字符串
 * substr() 从字符对象mystr中提取Hello子字符串
+## [sample041](https://github.com/ccloveak/Study_JavaScript/tree/master/sample041)  
+* 使用ceil（）方法，计算3.3、-0.1、-9.9、8.9值
