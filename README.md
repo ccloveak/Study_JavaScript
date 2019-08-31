@@ -119,3 +119,5 @@ Record JavaScript Samples
 * 使用concat()方法连接myarr1和myarr2两个数组并输出
 ## [sample046](https://github.com/ccloveak/Study_JavaScript/tree/master/sample046)  
 * 使用join()方法,用分隔符"-",将数组myarr3中元素连接，并输出
+## [sample047](https://github.com/ccloveak/Study_JavaScript/tree/master/sample047)  
+* 使用reverse()方法,将数组myarr顺序颠倒，并输出
