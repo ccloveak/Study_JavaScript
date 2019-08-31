@@ -109,3 +109,5 @@ Record JavaScript Samples
 * substr() 从字符对象mystr中提取Hello子字符串
 ## [sample041](https://github.com/ccloveak/Study_JavaScript/tree/master/sample041)  
 * 使用ceil（）方法，计算3.3、-0.1、-9.9、8.9值
+## [sample042](https://github.com/ccloveak/Study_JavaScript/tree/master/sample042)  
+* 使用floor（）方法，计算3.3、-0.1、-9.9、8.9值
