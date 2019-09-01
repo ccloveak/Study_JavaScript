@@ -160,3 +160,6 @@ Record JavaScript Samples
 ## [sample062](https://github.com/ccloveak/Study_JavaScript/tree/master/sample062)  
 * 输出屏幕宽度
 * 输出屏幕高度
+## [sample063](https://github.com/ccloveak/Study_JavaScript/tree/master/sample063)  
+* 输出屏幕可用宽度
+* 输出屏幕可用高度
