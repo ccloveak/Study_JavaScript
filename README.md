@@ -142,3 +142,5 @@ Record JavaScript Samples
 ## [sample054](https://github.com/ccloveak/Study_JavaScript/tree/master/sample054)  
 * 点击Start按钮后，开始计数
 * 点击Stop按钮后，停止计数
+## [sample055](https://github.com/ccloveak/Study_JavaScript/tree/master/sample055)  
+* 获取浏览器历史列表中的URL数量
