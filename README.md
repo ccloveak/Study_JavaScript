@@ -154,3 +154,6 @@ Record JavaScript Samples
 * 获取当前显示文档的URL,并输出
 ## [sample060](https://github.com/ccloveak/Study_JavaScript/tree/master/sample060)  
 * 使用Navigator对象，查看浏览器相关信息
+## [sample061](https://github.com/ccloveak/Study_JavaScript/tree/master/sample061)  
+* 使用userAgent获取浏览器信息，并保存在u_agent中
+* 点击"查看浏览器"按钮，显示浏览器和浏览器相关信息
