@@ -150,3 +150,5 @@ Record JavaScript Samples
 * 完善GoForward()函数，实现返回下一个页面功能
 ## [sample058](https://github.com/ccloveak/Study_JavaScript/tree/master/sample058)  
 * 完善GoBack()和GoForward()函数，实现返回前或下一个页面功能
+## [sample059](https://github.com/ccloveak/Study_JavaScript/tree/master/sample059)  
+* 获取当前显示文档的URL,并输出
