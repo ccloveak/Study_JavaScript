@@ -144,3 +144,5 @@ Record JavaScript Samples
 * 点击Stop按钮后，停止计数
 ## [sample055](https://github.com/ccloveak/Study_JavaScript/tree/master/sample055)  
 * 获取浏览器历史列表中的URL数量
+## [sample056](https://github.com/ccloveak/Study_JavaScript/tree/master/sample056)  
+* 完善GoBack()函数，实现返回前一个页面功能
