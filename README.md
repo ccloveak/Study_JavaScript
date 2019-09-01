@@ -134,3 +134,6 @@ Record JavaScript Samples
 ## [sample051](https://github.com/ccloveak/Study_JavaScript/tree/master/sample051)  
 * 获取时间，格式"时:分:秒"，并赋值给attime
 * 使用setInterval()计时器来显示动态时间
+## [sample052](https://github.com/ccloveak/Study_JavaScript/tree/master/sample052)  
+* 使用setInterval()计时器，显示动态时间
+* 点击Stop按钮后，取消计时器
