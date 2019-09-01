@@ -131,3 +131,6 @@ Record JavaScript Samples
     * 使用Date()日期对象，注意星期返回值为0-6，所以要转成文字"星期X"
 * 计算出该班级的平均分（保留整数）
     * parseInt() 字符串类型转成整型
+## [sample051](https://github.com/ccloveak/Study_JavaScript/tree/master/sample051)  
+* 获取时间，格式"时:分:秒"，并赋值给attime
+* 使用setInterval()计时器来显示动态时间
