@@ -139,3 +139,6 @@ Record JavaScript Samples
 * 点击Stop按钮后，取消计时器
 ## [sample053](https://github.com/ccloveak/Study_JavaScript/tree/master/sample053)  
 * 使用setTimeout()实现计数统计效果，并在文本框中显示数值
+## [sample054](https://github.com/ccloveak/Study_JavaScript/tree/master/sample054)  
+* 点击Start按钮后，开始计数
+* 点击Stop按钮后，停止计数
