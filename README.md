@@ -146,3 +146,5 @@ Record JavaScript Samples
 * 获取浏览器历史列表中的URL数量
 ## [sample056](https://github.com/ccloveak/Study_JavaScript/tree/master/sample056)  
 * 完善GoBack()函数，实现返回前一个页面功能
+## [sample057](https://github.com/ccloveak/Study_JavaScript/tree/master/sample057)  
+* 完善GoForward()函数，实现返回下一个页面功能
