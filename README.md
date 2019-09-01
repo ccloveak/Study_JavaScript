@@ -163,3 +163,6 @@ Record JavaScript Samples
 ## [sample063](https://github.com/ccloveak/Study_JavaScript/tree/master/sample063)  
 * 输出屏幕可用宽度
 * 输出屏幕可用高度
+## [sample064](https://github.com/ccloveak/Study_JavaScript/tree/master/sample064)  
+* 如果打开该页面后，如果不做任何操作则5秒后自动跳转到一个新的地址
+* 如果点击“返回”按钮则返回前一个页面
