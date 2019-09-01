@@ -157,3 +157,6 @@ Record JavaScript Samples
 ## [sample061](https://github.com/ccloveak/Study_JavaScript/tree/master/sample061)  
 * 使用userAgent获取浏览器信息，并保存在u_agent中
 * 点击"查看浏览器"按钮，显示浏览器和浏览器相关信息
+## [sample062](https://github.com/ccloveak/Study_JavaScript/tree/master/sample062)  
+* 输出屏幕宽度
+* 输出屏幕高度
