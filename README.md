@@ -137,3 +137,5 @@ Record JavaScript Samples
 ## [sample052](https://github.com/ccloveak/Study_JavaScript/tree/master/sample052)  
 * 使用setInterval()计时器，显示动态时间
 * 点击Stop按钮后，取消计时器
+## [sample053](https://github.com/ccloveak/Study_JavaScript/tree/master/sample053)  
+* 使用setTimeout()实现计数统计效果，并在文本框中显示数值
