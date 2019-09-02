@@ -183,3 +183,6 @@ Record JavaScript Samples
 * 在文本框中输入输入1-6数值，当点击"确定"按钮时，根据输入的数值，通过id选中相应的复选项。
 ## [sample069](https://github.com/ccloveak/Study_JavaScript/tree/master/sample069)  
 * 使用getAttribute()方法，获取LI标签的title值。
+## [sample070](https://github.com/ccloveak/Study_JavaScript/tree/master/sample070)  
+* 使用getAttribute()方法获取元素属性值，保存在变量text
+* 使用setAttribute()方法设置title属性值
