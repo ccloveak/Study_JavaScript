@@ -173,3 +173,7 @@ Record JavaScript Samples
 * 通过style.display实现隐藏
 ## [sample066](https://github.com/ccloveak/Study_JavaScript/tree/master/sample066)  
 * 获取 name 为 myt 的元素，同时输出获取的元素节点的长度
+## [sample067](https://github.com/ccloveak/Study_JavaScript/tree/master/sample067)  
+* 通过ID获取标题H1
+* 通过name获取值为sex的元素
+* 通过标签名获取input元素
