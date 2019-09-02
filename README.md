@@ -181,3 +181,5 @@ Record JavaScript Samples
 * 实现当点击"全选"按钮时，选中所有的复选项
 * 实现当点击"全不选"按钮时，将取消所有选中的复选项
 * 在文本框中输入输入1-6数值，当点击"确定"按钮时，根据输入的数值，通过id选中相应的复选项。
+## [sample069](https://github.com/ccloveak/Study_JavaScript/tree/master/sample069)  
+* 使用getAttribute()方法，获取LI标签的title值。
