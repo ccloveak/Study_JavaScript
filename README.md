@@ -166,3 +166,8 @@ Record JavaScript Samples
 ## [sample064](https://github.com/ccloveak/Study_JavaScript/tree/master/sample064)  
 * 如果打开该页面后，如果不做任何操作则5秒后自动跳转到一个新的地址
 * 如果点击“返回”按钮则返回前一个页面
+## [sample065](https://github.com/ccloveak/Study_JavaScript/tree/master/sample065)  
+* 通过getElementById获取id为con的h2标签
+* 修改h2标签的样式，将颜色设为红色
+* 修改h2标签的样式，将背景颜色设为灰色(#CCC)
+* 通过style.display实现隐藏
