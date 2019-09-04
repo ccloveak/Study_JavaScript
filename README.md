@@ -201,3 +201,6 @@ Record JavaScript Samples
 * 获取第一个DIV的子节点
 * 使用for遍历每个节点
 * 输出相应节点的属性
+## [sample073](https://github.com/ccloveak/Study_JavaScript/tree/master/sample073)  
+* 输出指定元素(div)的第一个子节点
+* 输出指定元素(div)的最后一个子节点
