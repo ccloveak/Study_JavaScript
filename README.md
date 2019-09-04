@@ -211,3 +211,5 @@ Record JavaScript Samples
 ## [sample076](https://github.com/ccloveak/Study_JavaScript/tree/master/sample076)  
 * 为ul添加一个li
 * 设置li内容为PHP
+## [sample077](https://github.com/ccloveak/Study_JavaScript/tree/master/sample077)  
+* 创建一个新li标签，内容为"php",并将新创建的li插入到内容为HTML的标签前
