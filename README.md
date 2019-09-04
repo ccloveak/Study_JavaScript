@@ -208,3 +208,6 @@ Record JavaScript Samples
 * 通过获取的mylist节点，使用访问父节点parentNode，将"HTML/CSS"内容输出
 ## [sample075](https://github.com/ccloveak/Study_JavaScript/tree/master/sample075)  
 * 编写get_previousSibling 函数，获得指定节点的上一个节点
+## [sample076](https://github.com/ccloveak/Study_JavaScript/tree/master/sample076)  
+* 为ul添加一个li
+* 设置li内容为PHP
