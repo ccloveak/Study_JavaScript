@@ -188,11 +188,16 @@ Record JavaScript Samples
 * 使用setAttribute()方法设置title属性值
 ## [sample071](https://github.com/ccloveak/Study_JavaScript/tree/master/sample071)  
 * 在<script>的标签内容，获取所有LI标签，并输出相应节点的名称、节点的值、节点的类型
- 
-| 元素类型  | 节点类型 |
-| :--- | :---: |
-元素     |     1
-属性     |     2
-文本     |     3
-注释     |     8
-文档     |     9
+
+    | 元素类型  | 节点类型 |
+    | :--- | :---: |
+    元素     |     1
+    属性     |     2
+    文本     |     3
+    注释     |     8
+    文档     |     9
+
+## [sample072](https://github.com/ccloveak/Study_JavaScript/tree/master/sample072)  
+* 获取第一个DIV的子节点
+* 使用for遍历每个节点
+* 输出相应节点的属性
