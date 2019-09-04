@@ -213,3 +213,8 @@ Record JavaScript Samples
 * 设置li内容为PHP
 ## [sample077](https://github.com/ccloveak/Study_JavaScript/tree/master/sample077)  
 * 创建一个新li标签，内容为"php",并将新创建的li插入到内容为HTML的标签前
+## [sample078](https://github.com/ccloveak/Study_JavaScript/tree/master/sample078)  
+* 定义clearText()函数，完成节点内容的删除
+    *  删除该节点的内容，先要获取子节点
+    *  然后使用循环遍历每个子节点
+    *  使用removeChild()删除节点
