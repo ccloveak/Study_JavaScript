@@ -206,3 +206,5 @@ Record JavaScript Samples
 * 输出指定元素(div)的最后一个子节点
 ## [sample074](https://github.com/ccloveak/Study_JavaScript/tree/master/sample074)  
 * 通过获取的mylist节点，使用访问父节点parentNode，将"HTML/CSS"内容输出
+## [sample075](https://github.com/ccloveak/Study_JavaScript/tree/master/sample075)  
+* 编写get_previousSibling 函数，获得指定节点的上一个节点
