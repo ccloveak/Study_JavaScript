@@ -187,11 +187,11 @@ Record JavaScript Samples
 * 使用getAttribute()方法获取元素属性值，保存在变量text
 * 使用setAttribute()方法设置title属性值
 ## [sample071](https://github.com/ccloveak/Study_JavaScript/tree/master/sample071)  
-* 在<script>的标签内容，获取所有LI标签，并输出相应节点的名称、节点的值、节点的类型 
-    | 元素类型  | 节点类型 |
-    | :--- | :---: |
-     元素     |     1
-     属性     |     2
-     文本     |     3
-     注释     |     8
-     文档     |     9
+* 在<script>的标签内容，获取所有LI标签，并输出相应节点的名称、节点的值、节点的类型
+| 元素类型  | 节点类型 |
+| :--- | :---: |
+元素     |     1
+属性     |     2
+文本     |     3
+注释     |     8
+文档     |     9
