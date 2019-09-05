@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        document.write("宽为：" + document.body.scrollWidth + "<br>");
+        document.write("高为：" + document.body.scrollHeight + "<br>");
+
+        //var w = document.documentElement.scrollWidth;
+        //var h = document.documentElement.scrollHeight;
+        var w = document.documentElement.scrollWidth || document.body.scrollWidth;
+        var h = document.documentElement.scrollHeight || document.body.scrollHeight;
+        document.write("<br>" + "宽为：" + w + "<br>" + "高为：" + h);
+    </script>
+
+</body>
+
+</html>

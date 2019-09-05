@@ -227,3 +227,5 @@ Record JavaScript Samples
 * 在<script>标签中，创建一个P标签，设置className属性，使用createTextNode创建文本节点"I love JavaScript!"。
 ## [sample082](https://github.com/ccloveak/Study_JavaScript/tree/master/sample082)  
 * 获取浏览器当前窗口大小
+## [sample083](https://github.com/ccloveak/Study_JavaScript/tree/master/sample083)  
+* 获取网页的实际宽度和高度
