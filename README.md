@@ -229,3 +229,5 @@ Record JavaScript Samples
 * 获取浏览器当前窗口大小
 ## [sample083](https://github.com/ccloveak/Study_JavaScript/tree/master/sample083)  
 * 获取网页的实际宽度和高度
+## [sample084](https://github.com/ccloveak/Study_JavaScript/tree/master/sample084)  
+* 获取网页的宽度和高度
