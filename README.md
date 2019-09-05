@@ -225,3 +225,5 @@ Record JavaScript Samples
 * 调用createa函数，链接地址 ```https://www.baidu.com/```，文本为:百度
 ## [sample081](https://github.com/ccloveak/Study_JavaScript/tree/master/sample081)  
 * 在<script>标签中，创建一个P标签，设置className属性，使用createTextNode创建文本节点"I love JavaScript!"。
+## [sample082](https://github.com/ccloveak/Study_JavaScript/tree/master/sample082)  
+* 获取浏览器当前窗口大小
