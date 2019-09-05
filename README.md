@@ -220,3 +220,6 @@ Record JavaScript Samples
     *  使用removeChild()删除节点
 ## [sample079](https://github.com/ccloveak/Study_JavaScript/tree/master/sample079)  
 * 补充函数 replaceMessage() 代码，实现将 b 标签替换成 i 标签
+## [sample081](https://github.com/ccloveak/Study_JavaScript/tree/master/sample081)  
+* 完善createa(url,text)创建链接函数，参数1为链接地址，参数2为链接文本，函数中添加链接地址、文本、文字颜色属性
+* 调用createa函数，链接地址 https://www.baidu.com/，文本为:百度
