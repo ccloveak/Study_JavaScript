@@ -218,3 +218,5 @@ Record JavaScript Samples
     *  删除该节点的内容，先要获取子节点
     *  然后使用循环遍历每个子节点
     *  使用removeChild()删除节点
+## [sample079](https://github.com/ccloveak/Study_JavaScript/tree/master/sample079)  
+* 补充函数 replaceMessage() 代码，实现将 b 标签替换成 i 标签
