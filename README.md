@@ -222,6 +222,6 @@ Record JavaScript Samples
 * 补充函数 replaceMessage() 代码，实现将 b 标签替换成 i 标签
 ## [sample081](https://github.com/ccloveak/Study_JavaScript/tree/master/sample081)  
 * 完善createa(url,text)创建链接函数，参数1为链接地址，参数2为链接文本，函数中添加链接地址、文本、文字颜色属性
-* 调用createa函数，链接地址 https://www.baidu.com/，文本为:百度
+* 调用createa函数，链接地址 ```https://www.baidu.com/```，文本为:百度
 ## [sample081](https://github.com/ccloveak/Study_JavaScript/tree/master/sample081)  
 * 在<script>标签中，创建一个P标签，设置className属性，使用createTextNode创建文本节点"I love JavaScript!"。
