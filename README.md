@@ -233,3 +233,8 @@ Record JavaScript Samples
 * 获取网页的宽度和高度
 ## [sample085](https://github.com/ccloveak/Study_JavaScript/tree/master/sample085)  
 * 调整横竖滚动条后，点击按钮，查看offsetTop、offsetLeft、scrollTop、scrollLeft值的变化
+## [sample086](https://github.com/ccloveak/Study_JavaScript/tree/master/sample086)  
+* 制作一个表格，显示班级的学生信息。
+    * 鼠标移到不同行上时背景色改为色值为 #f2f2f2，移开鼠标时则恢复为原背景色 #fff
+    * 点击添加按钮，能动态在最后添加一行
+    * 点击删除按钮，则删除当前行
