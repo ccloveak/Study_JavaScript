@@ -238,3 +238,5 @@ Record JavaScript Samples
     * 鼠标移到不同行上时背景色改为色值为 #f2f2f2，移开鼠标时则恢复为原背景色 #fff
     * 点击添加按钮，能动态在最后添加一行
     * 点击删除按钮，则删除当前行
+## [sample087](https://github.com/ccloveak/Study_JavaScript/tree/master/sample087)  
+* 实现选项卡切换的效果
