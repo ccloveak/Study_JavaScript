@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+
+<body>
+    <style media="screen">
+        .message {
+            width: 200px;
+            height: 100px;
+            background-color: #CCC;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var element = document.createElement("p");
+        element.className = "message";
+        var newnode = document.createTextNode("I love Javascript!");
+        element.appendChild(newnode);
+        document.body.appendChild(element);
+    </script>
+
+</body>
+
+</html>
